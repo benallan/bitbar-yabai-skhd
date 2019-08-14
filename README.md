@@ -9,4 +9,4 @@ Allows stopping and restarting yabai and skhd.
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/benallan/bitbar-yabai-skhd) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/benallan/bitbar-yabai-skhd/LICENSE.md) file for details.
